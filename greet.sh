@@ -7,3 +7,4 @@ if [ -z "$name" ]; then
 else
     echo "Hello, $name!"
 fi
+echo "Greeting script tested successfully."
